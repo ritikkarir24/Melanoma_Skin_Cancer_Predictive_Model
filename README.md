@@ -29,4 +29,4 @@
 
 
 ## Contact
-Created by [@ritikkarir24] - feel free to contact me!
+Created by [KarirRitik](https://github.com/ritikkarir24) - feel free to contact me!
